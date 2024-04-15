@@ -24,14 +24,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "r25_val"
-  uo[1]: "r26_val"
-  uo[2]: "r27_val"
-  uo[3]: "r28_val"
-  uo[4]: "r29_val"
-  uo[5]: "r30_val"
-  uo[6]: "r31_val"
-  uo[7]: "r32_val_LSFR_out"
+  uo[0]: "r08_val"
+  uo[1]: "r07_val"
+  uo[2]: "r06_val"
+  uo[3]: "r05_val"
+  uo[4]: "r04_val"
+  uo[5]: "r03_val"
+  uo[6]: "r02_val"
+  uo[7]: "r01_val_LSFR_out"
 
   # Bidirectional pins
   uio[0]: ""
